@@ -27,4 +27,3 @@ steps:
     overrideParameters: '-projectName myfistazuredeploment'
     deploymentMode: 'Incremental'
     deploymentName: 'mygroupdeploy'
-  displayName: 'Run a multi-line script'
